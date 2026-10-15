@@ -1,0 +1,8 @@
+{
+  "name": "uzum-seller",
+  "version": "1.0.0",
+  "description": "Ask Claude about your Uzum Market shop: stock, sales, profit after commission, FBS orders, returns, invoices and expenses. Requires a BRAND subscription.",
+  "author": { "name": "BRAND", "url": "https://BRAND.uz" },
+  "homepage": "https://BRAND.uz",
+  "keywords": ["uzum", "seller", "ecommerce", "analytics"]
+}

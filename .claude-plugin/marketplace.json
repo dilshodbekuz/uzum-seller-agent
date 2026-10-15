@@ -1,0 +1,15 @@
+{
+  "name": "uzum-seller-plugins",
+  "owner": { "name": "BRAND", "email": "support@BRAND.uz" },
+  "metadata": { "description": "Claude plugins for Uzum Market sellers" },
+  "plugins": [
+    {
+      "name": "uzum-seller",
+      "source": "./plugins/uzum-seller",
+      "description": "Ask Claude about your Uzum Market shop: stock, sales, profit, FBS orders, returns, invoices and expenses.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["uzum", "marketplace", "ecommerce", "seller", "uzbekistan", "analytics"]
+    }
+  ]
+}

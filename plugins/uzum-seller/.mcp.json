@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uzum-seller": {
+      "type": "http",
+      "url": "https://BRAND.uz/mcp"
+    }
+  }
+}
