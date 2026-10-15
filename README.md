@@ -1,4 +1,4 @@
-# Uzum seller plugins for Claude
+# Uzum Seller Agent — Claude plugin
 
 Ask Claude about your Uzum Market shop — stock, sales, profit after commission, FBS orders, returns, invoices and expenses — in Uzbek, Russian or English.
 
@@ -7,8 +7,8 @@ Requires an account at **https://marketagent.uz** (free trial) with your Uzum AP
 ## Claude Code
 
 ```
-/plugin marketplace add GITHUB_USER/uzum-seller-plugins
-/plugin install uzum-seller@uzum-seller-plugins
+/plugin marketplace add dilshodbekuz/uzum-seller-agent
+/plugin install uzum-seller@uzum-seller-agent
 ```
 
 Then run `/mcp`, pick `uzum-seller` and log in with your Uzum Seller Agent account.

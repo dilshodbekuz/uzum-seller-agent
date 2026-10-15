@@ -1,5 +1,5 @@
 {
-  "name": "uzum-seller-plugins",
+  "name": "uzum-seller-agent",
   "owner": { "name": "Uzum Seller Agent", "email": "hdilshodbek12@gmail.com" },
   "metadata": { "description": "Claude plugins for Uzum Market sellers" },
   "plugins": [
