@@ -1,6 +1,6 @@
 {
   "name": "uzum-seller-plugins",
-  "owner": { "name": "BRAND", "email": "support@BRAND.uz" },
+  "owner": { "name": "Uzum Seller Agent", "email": "hdilshodbek12@gmail.com" },
   "metadata": { "description": "Claude plugins for Uzum Market sellers" },
   "plugins": [
     {
